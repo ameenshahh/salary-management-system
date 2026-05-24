@@ -4,8 +4,7 @@ HR salary management for organizations with **10,000+ employees**. Built with Ne
 
 ## Public repository
 
-> **Add your GitHub repo URL here after pushing:**
-> `https://github.com/YOUR_USERNAME/salary-management-system`
+https://github.com/ameenshahh/salary-management-system
 
 ## Quick start (Docker)
 
